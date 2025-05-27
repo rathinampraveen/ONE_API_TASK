@@ -59,8 +59,7 @@ To run this notebook:
    git clone https://github.com/rathinampraveen/ONE_API_TASK.git
    cd ONE_API_TASK
 ---
-
 #🙋‍♂️ Author
 Praveen Rathinam
 M.Sc. Data Science
-GitHub Profile
+https://github.com/rathinampraveen
